@@ -4,4 +4,4 @@
 
 ### Image Classification Training
 
-Trains a new model.
+[Trains a new model.](https://github.com/carlpaton/MachineLearningWithMLNET/tree/master/ImageClassificationTraining)
